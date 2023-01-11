@@ -33,7 +33,7 @@ type(a)
 # In[2]:
 
 
-mi_nombre = 'juan carlos perez'
+mi_nombre = 'Julian Huaca'
 
 
 # 5) Crear una variable que contenga un número complejo
@@ -41,7 +41,7 @@ mi_nombre = 'juan carlos perez'
 # In[3]:
 
 
-n_complejo = 5 + 5j
+n_complejo = 6 + 6j
 
 
 # 6) Mostrar el tipo de dato de la variable crada en el punto 5
